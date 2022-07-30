@@ -1,0 +1,12 @@
+C:\Users\ethan\source\repos\lab2\DALL\bin\Debug\DALL.dll.config
+C:\Users\ethan\source\repos\lab2\DALL\bin\Debug\DALL.dll
+C:\Users\ethan\source\repos\lab2\DALL\bin\Debug\DALL.pdb
+C:\Users\ethan\source\repos\lab2\DALL\bin\Debug\EntityFramework.dll
+C:\Users\ethan\source\repos\lab2\DALL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ethan\source\repos\lab2\DALL\bin\Debug\EntityFramework.xml
+C:\Users\ethan\source\repos\lab2\DALL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ethan\source\repos\lab2\DALL\obj\Debug\DALL.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\lab2\DALL\obj\Debug\DALL.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\lab2\DALL\obj\Debug\DALL.csproj.CopyComplete
+C:\Users\ethan\source\repos\lab2\DALL\obj\Debug\DALL.dll
+C:\Users\ethan\source\repos\lab2\DALL\obj\Debug\DALL.pdb
